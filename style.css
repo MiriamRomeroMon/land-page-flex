@@ -1,0 +1,48 @@
+.body {
+    font-family: 'Roboto', sans-serif;;
+    margin: 0;
+    min-height: 100vh;
+    display:flex;
+    flex-direction:column;
+}
+
+.menu, .footer {
+    background-color: #1F2937;
+}
+
+.menu {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    color:#F9FAF8;
+    font-size: 24px;
+}
+
+.links {
+    display:flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.link {
+    color:#F9FAF8;
+    text-decoration: none;
+}
+
+/*primer div hecho, ahora pasamos al de about*/
+
+
+
+/*quitar cuando arreglemos las imagenes*/
+img{
+    width: 100px;
+    height: auto;
+}
+
+
+
