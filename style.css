@@ -60,7 +60,13 @@ body {
     color:#F9FAF8;
     font-weight: 900px;
     margin: 0;
+    padding:0;
+}
 
+.description {
+    margin: 0;
+    padding:0;
+    padding-bottom: 5px;
 }
 
 button {
